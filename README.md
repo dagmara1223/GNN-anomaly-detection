@@ -18,3 +18,6 @@ The dataset models insider threat scenarios, where employees may exhibit anomalo
 This dataset was selected because it provides a realistic representation of user behavior in enterprise environments, where anomalies may indicate potential security risks.
 
 Before proceeding with the data analysis, I reviewed several research papers that inspired this project and helped shape its methodology. 
+
+## Inspiring Scientific Articles 
+- Anomaly detection in graph databases using graph neural networks: Identifying unusual patterns in graphs, Ismail Chetoui, Essaid El Bachari, Mohamed El Adnani, Mohamed Ouhssini: [https://www.sciencedirect.com/science/article/pii/S1110866525001288](https://www.sciencedirect.com/science/article/pii/S1110866525001288)
